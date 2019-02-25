@@ -1,0 +1,7 @@
+C:\Users\Anyone\source\repos\Exercicio_03\Exercicio_03\bin\Debug\Exercicio_03.exe.config
+C:\Users\Anyone\source\repos\Exercicio_03\Exercicio_03\bin\Debug\Exercicio_03.exe
+C:\Users\Anyone\source\repos\Exercicio_03\Exercicio_03\bin\Debug\Exercicio_03.pdb
+C:\Users\Anyone\source\repos\Exercicio_03\Exercicio_03\obj\Debug\Exercicio_03.csprojResolveAssemblyReference.cache
+C:\Users\Anyone\source\repos\Exercicio_03\Exercicio_03\obj\Debug\Exercicio_03.csproj.CoreCompileInputs.cache
+C:\Users\Anyone\source\repos\Exercicio_03\Exercicio_03\obj\Debug\Exercicio_03.exe
+C:\Users\Anyone\source\repos\Exercicio_03\Exercicio_03\obj\Debug\Exercicio_03.pdb
